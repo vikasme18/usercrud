@@ -1,0 +1,18 @@
+body {
+    font-family: "Lato", sans-serif;
+    background-color: black;
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+#cont {
+    text-align: end;
+}
